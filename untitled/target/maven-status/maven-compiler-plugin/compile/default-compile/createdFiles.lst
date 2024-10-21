@@ -1,0 +1,4 @@
+org\example\Controller\MainController.class
+org\example\Model\ResponseDTO.class
+org\example\NewMockAplication.class
+org\example\Model\RequestDTo.class
